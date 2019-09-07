@@ -1,5 +1,5 @@
 # iSpace
-Have your own network free! without anything except a machine runing linux.
+Have your own network free! without anything except a machine which is can running linux.
 
 ## Status:
     Working on Ui
